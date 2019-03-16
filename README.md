@@ -25,4 +25,4 @@ Each row represents an antibiotic pair and the simiality score annotated by doct
 
 **[Ref]**
 1. [Semi-Supervised Learning with Deep Generative Models](http://arxiv.org/abs/1406.5298)
-2. [Implementation by Authors](https://github.com/dpkingma/nips14-ssl)
+2. [Code for reproducing results of NIPS 2014 paper "Semi-Supervised Learning with Deep Generative Models"](https://github.com/dpkingma/nips14-ssl)
